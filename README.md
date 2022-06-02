@@ -21,5 +21,6 @@ Keep visiting this repo to learn basic machine learning in just 30 days.
 <p align="center">
   <img src="https://github.com/anishjohnson/30-Days-of-Machine-Learning/blob/4e490c0095eb68dd7ca7244dde1a5f9b3353a0b0/Content/Day_3.png">
 </p><br>
+
 * Implementation of Linear Regression will be uploaded soon! 
 
