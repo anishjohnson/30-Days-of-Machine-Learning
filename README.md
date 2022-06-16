@@ -17,10 +17,20 @@ Keep visiting this repo to learn basic machine learning in just 30 days.
 2. https://medium.com/analytics-vidhya/supervised-learning-d8562826b798
 
 
-## Day 2: Linear Regression
+## Day 3: Linear Regression
 <p align="center">
   <img src="https://github.com/anishjohnson/30-Days-of-Machine-Learning/blob/4e490c0095eb68dd7ca7244dde1a5f9b3353a0b0/Content/Day_3.png">
 </p><br>
 
 * Implementation of Linear Regression will be uploaded soon! 
 
+
+## Day 4: Logistic Regression
+<p align="center">
+  <img src="https://github.com/anishjohnson/30-Days-of-Machine-Learning/blob/f9ec2969024484201b21eb37073cb956d16c5690/Content/Day_4.png">
+</p><br>
+
+* Implementation of Logistic Regression will be uploaded soon! 
+* Few intresting articles:
+1. https://www.statology.org/assumptions-of-logistic-regression/
+2. https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290
