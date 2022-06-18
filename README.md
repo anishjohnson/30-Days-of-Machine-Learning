@@ -34,3 +34,13 @@ Keep visiting this repo to learn basic machine learning in just 30 days.
 * Few intresting articles:
 1. https://www.statology.org/assumptions-of-logistic-regression/
 2. https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290
+
+
+## Day 5: k Nearest Neighbors
+<p align="center">
+  <img src="https://github.com/anishjohnson/30-Days-of-Machine-Learning/blob/45a80e77c0980e696aa733957b96e2e11009397e/Content/Day_5.png">
+</p><br>
+
+* Implementation of kNN will be uploaded soon! 
+* Few intresting articles:
+1. https://medium.com/swlh/k-nearest-neighbor-ca2593d7a3c4
